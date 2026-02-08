@@ -60,7 +60,3 @@ Tenho interesse na área de programação e na linguagem Java.
 
 <br clear="all">
 
-<p align="left">
-  <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" 
-  width="250">
-</p>
